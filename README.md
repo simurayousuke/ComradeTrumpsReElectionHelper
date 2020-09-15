@@ -3,7 +3,13 @@
 
 * [Harmony](https://github.com/pardeike/Harmony)
 
+# Download
+* [Mega](https://mega.nz/file/B5YC2SRR#wveLyoQzNTC7ZnjC_-ktdD0WJO_ELG89QuMWJi51CzY)
+
+* [百度云](https://pan.baidu.com/s/1PiThgNpejWlfR-E1ldAaFA) 提取码：0jna
+
 # How to use
+Unzip to game root directory.
 |Hotkey|Function|
 |----|----|
 |Home|show/hide tips|
@@ -15,6 +21,7 @@
 |F6|Decrease 1% chaos rate|
 
 # 使用说明
+解压到游戏根目录。
 |快捷键|功能|
 |----|----|
 |Home|显示/隐藏提示|
