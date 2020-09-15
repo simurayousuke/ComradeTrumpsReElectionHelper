@@ -1,5 +1,7 @@
 # Framework
-BepInEx 5.3.0.0 x64
+* [BepInEx 5.3.0.0 x64](https://github.com/BepInEx/BepInEx)
+
+* [Harmony](https://github.com/pardeike/Harmony)
 
 # How to use
 |Hotkey|Function|
